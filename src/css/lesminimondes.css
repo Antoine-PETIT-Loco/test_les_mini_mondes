@@ -1,0 +1,33 @@
+#container_message h1{
+    color: red;
+    font-size: 68px;
+    font-style: italic;
+}
+
+#container_coussin{
+    text-align: center;
+}
+
+#container_coussin div img{
+    margin: 25px;
+    width: 45%;
+    height: 45%;
+}
+
+#container_boutons{
+    display: flex;
+}
+
+button{
+    margin: 25px;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+}
+
+
+#cpt{
+    color: red;
+    font-size: 68px;
+    font-style: italic;
+}
